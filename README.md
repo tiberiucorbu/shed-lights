@@ -6,7 +6,7 @@ Nice looking garden light, powerd by a solar panel, with lightbulbs housing made
 
 First prototype : 
 
-['First prototype picture']('.assets/.prototype.jpg')
+![First prototype picture](./.assets/.prototype.jpg)
 
 ## Parts
 
