@@ -395,7 +395,7 @@ SolvespaceCamera = function(renderWidth, renderHeight, scale, up, right, offset)
 
             controls = new SolvespaceControls(camera, renderer.domElement);
             controls.addEventListener("change", render);
-            controls.addEventListener("change", lightUpdate);
+
 
             animate();
             return renderer.domElement;
@@ -415,24 +415,6 @@ SolvespaceCamera = function(renderWidth, renderHeight, scale, up, right, offset)
 
             context.depthRange(0.1-(2/60000.0), 1-(2/60000.0));
             renderer.render(edgeScene, camera);
-        }
-
-        function lightUpdate() {
-            var changeBasis = new THREE.Matrix4();
-
-            // The original light positions were in camera space.
-            // Project them into standard space using camera's basis
-            // vectors (up, target, and their cross product).
-            n = new THREE.Vector3().crossVectors(camera.up, camera.right);
-            changeBasis.makeBasis(camera.right, camera.up, n);
-
-            for (var i = 0; i < 2; i++) {
-                var newLightPos = changeBasis.applyToVector3Array(
-                    [obj.lights.d[i].direction[0], obj.lights.d[i].direction[1],
-                        obj.lights.d[i].direction[2]]);
-                directionalLightArray[i].position.set(newLightPos[0],
-                    newLightPos[1], newLightPos[2]);
-            }
         }
 
         function createMesh(meshObj) {
