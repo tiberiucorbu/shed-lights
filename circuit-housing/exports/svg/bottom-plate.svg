@@ -1,0 +1,120 @@
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg xmlns="http://www.w3.org/2000/svg"  xmlns:xlink="http://www.w3.org/1999/xlink" width='145.509mm' height='103.000mm' viewBox="0 0 145.509 103.000">
+
+<title>Exported SVG</title>
+
+<style><![CDATA[
+polygon {
+shape-rendering:crispEdges;
+stroke-width:0.145509;
+}
+.s1 {
+stroke:#000000;
+stroke-width:0.095396;
+stroke-linecap:round;
+stroke-linejoin:round;
+fill:none;
+}
+.s2 {
+stroke:#19b219;
+stroke-width:0.095396;
+stroke-linecap:round;
+stroke-linejoin:round;
+fill:none;
+}
+.s3 {
+stroke:#7f4c00;
+stroke-width:0.095396;
+stroke-linecap:round;
+stroke-linejoin:round;
+fill:none;
+}
+.s4 {
+stroke:#00cc00;
+stroke-width:0.095396;
+stroke-linecap:round;
+stroke-linejoin:round;
+fill:none;
+}
+.s5 {
+stroke:#000000;
+stroke-width:0.063598;
+stroke-linecap:round;
+stroke-linejoin:round;
+fill:none;
+}
+.s6 {
+stroke:#ff19ff;
+stroke-width:0.063598;
+stroke-linecap:round;
+stroke-linejoin:round;
+fill:none;
+}
+.s7 {
+stroke:#ff0000;
+stroke-width:0.095396;
+stroke-linecap:round;
+stroke-linejoin:round;
+fill:none;
+}
+.s8 {
+stroke:#ffff00;
+stroke-width:0.095396;
+stroke-linecap:round;
+stroke-linejoin:round;
+fill:none;
+}
+.s9 {
+stroke:#001919;
+stroke-width:0.063598;
+stroke-linecap:round;
+stroke-linejoin:round;
+fill:none;
+}
+.sa {
+stroke:#006666;
+stroke-width:0.063598;
+stroke-linecap:round;
+stroke-linejoin:round;
+fill:none;
+}
+.sb {
+stroke:#00ffff;
+stroke-width:0.063598;
+stroke-linecap:round;
+stroke-linejoin:round;
+fill:none;
+}
+.sc {
+stroke:#ff0000;
+stroke-width:0.508781;
+stroke-linecap:round;
+stroke-linejoin:round;
+fill:none;
+}
+.sd {
+stroke:#191919;
+stroke-width:0.063598;
+stroke-linecap:round;
+stroke-linejoin:round;
+fill:none;
+}
+.se {
+stroke:#000000;
+stroke-width:0.127195;
+stroke-linecap:round;
+stroke-linejoin:round;
+stroke-dasharray:0.954,0.954;
+fill:none;
+}
+.sf {
+stroke:#000000;
+stroke-width:0.190793;
+stroke-linecap:round;
+stroke-linejoin:round;
+fill:none;
+}
+]]></style>
+<path d='M15.376 98.000 L15.376,95.000 L22.876,95.000 L22.876,98.000 L33.252,98.000 L33.252,95.000 L40.752,95.000 L40.752,98.000 L51.128,98.000 L51.128,95.000 L58.628,95.000 L58.628,98.000 L69.004,98.000 L69.004,95.000 L76.504,95.000 L76.504,98.000 L86.881,98.000 L86.881,95.000 L94.381,95.000 L94.381,98.000 L104.757,98.000 L104.757,95.000 L112.257,95.000 L112.257,98.000 L122.633,98.000 L122.633,95.000 L130.133,95.000 L130.133,98.000 L140.509,98.000 L140.509,85.400 L137.509,85.400 L137.509,77.900 L140.509,77.900 L140.509,65.300 L137.509,65.300 L137.509,57.800 L140.509,57.800 L140.509,45.200 L137.509,45.200 L137.509,37.700 L140.509,37.700 L140.509,25.100 L137.509,25.100 L137.509,17.600 L140.509,17.600 L140.509,5.000 L130.133,5.000 L130.133,8.000 L122.633,8.000 L122.633,5.000 L112.257,5.000 L112.257,8.000 L104.757,8.000 L104.757,5.000 L94.381,5.000 L94.381,8.000 L86.881,8.000 L86.881,5.000 L76.504,5.000 L76.504,8.000 L69.004,8.000 L69.004,5.000 L58.628,5.000 L58.628,8.000 L51.128,8.000 L51.128,5.000 L40.752,5.000 L40.752,8.000 L33.252,8.000 L33.252,5.000 L22.876,5.000 L22.876,8.000 L15.376,8.000 L15.376,5.000 L5.000,5.000 L5.000,17.600 L8.000,17.600 L8.000,25.100 L5.000,25.100 L5.000,37.700 L8.000,37.700 L8.000,45.200 L5.000,45.200 L5.000,57.800 L8.000,57.800 L8.000,65.300 L5.000,65.300 L5.000,77.900 L8.000,77.900 L8.000,85.400 L5.000,85.400 L5.000,98.000 L15.376,98.000 M83.009 81.157 A1.500,1.500 0 0,1 81.509,79.657 A1.500,1.500 0 0,1 83.009,78.157 A1.500,1.500 0 0,1 84.509,79.657 A1.500,1.500 0 0,1 83.009,81.157 M122.009 24.843 A1.500,1.500 0 0,1 120.509,23.343 A1.500,1.500 0 0,1 122.009,21.843 A1.500,1.500 0 0,1 123.509,23.343 A1.500,1.500 0 0,1 122.009,24.843 M65.500 18.506 A1.500,1.500 0 0,1 64.000,17.006 A1.500,1.500 0 0,1 65.500,15.506 A1.500,1.500 0 0,1 67.000,17.006 A1.500,1.500 0 0,1 65.500,18.506 M42.500 59.494 A1.500,1.500 0 0,1 41.000,57.994 A1.500,1.500 0 0,1 42.500,56.494 A1.500,1.500 0 0,1 44.000,57.994 A1.500,1.500 0 0,1 42.500,59.494 M16.750 22.000 A1.500,1.500 0 0,1 15.250,20.500 A1.500,1.500 0 0,1 16.750,19.000 A1.500,1.500 0 0,1 18.250,20.500 A1.500,1.500 0 0,1 16.750,22.000 M32.750 55.362 A1.500,1.500 0 0,1 31.250,53.862 A1.500,1.500 0 0,1 32.750,52.362 A1.500,1.500 0 0,1 34.250,53.862 A1.500,1.500 0 0,1 32.750,55.362 ' class='s5' />
+
+</svg>
